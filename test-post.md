@@ -8,11 +8,15 @@ This post is a test of HackMD's GitHub-sync and whether it can be used to host b
 ## Testing different elements
 ### Lists
 Unorderered lists:
+
 * aksel
 * Andreas
 * Alexander
 
+---
+
 Ordered lists:
+
 1. En
 2. To 
 3. Fire
@@ -41,3 +45,10 @@ let aksel = "andreas";
 
 # MD is cool.
 Very cool.
+
+## Fat-Aksel
+**Bold**
+*Italic*
+~~Fat Aksel~~
+
+---
