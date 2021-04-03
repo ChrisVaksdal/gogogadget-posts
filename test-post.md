@@ -29,18 +29,22 @@ Ordered lists:
 
 Check-lists:
 
-* [ ] Én
-* [ ] Two
-* [ ] three
-* [ ] four
+* Én
+* Two
+* three
+* four
 
 ### Tables
 
 Simple table:
 
-| Column 1 | Column 2 | Column 3 |
-|:--------:|:--------:|:--------:|
-|   Text   |   Text   |   Text   |
+| Column 1 | Column 2 |    Column 3    |
+|:--------:|:--------:|:--------------:|
+| Andreas  | Tullemus |      123       |
+|  Aksel   |   Tom    |                |
+| Testing  |          |      Ento      |
+|   bals   |   lls    | teksttesktestk |
+|   Text   |   Text   |      Text      |
 
 ### Quotes
 
@@ -50,6 +54,10 @@ Simple table:
 
 ```=js
 let aksel = "andreas";
+```
+
+```
+code = new Cool()
 ```
 
 ## MD is cool
