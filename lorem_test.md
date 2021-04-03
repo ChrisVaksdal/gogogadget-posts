@@ -1,5 +1,7 @@
 # Lorem Test
 
+### Table of Contents
+
 [TOC]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus at nunc non accumsan. Curabitur suscipit elit tristique blandit lacinia. Ut nec rhoncus mi. Nam sit amet purus fringilla, porttitor mi eu, euismod enim. Mauris ac egestas turpis. Sed vitae vulputate massa, aliquam tempus elit. Cras sollicitudin turpis vitae eleifend fermentum. Vivamus rutrum arcu non odio vulputate tristique. Integer egestas ultricies ipsum, ullamcorper porta nulla consectetur pellentesque. Donec rhoncus semper turpis, nec consectetur velit consectetur mattis. Nullam eu justo magna. Fusce malesuada felis eget purus imperdiet, eget tempor eros ultricies. Quisque euismod interdum mauris a egestas. Nullam vehicula eros at turpis egestas, nec maximus purus lacinia.
